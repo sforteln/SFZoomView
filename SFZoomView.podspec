@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "SFZoomView"
-  s.version          = "0.1.0"
+  s.version          = "1.0"
   s.summary          = "A library to simply zoom in and out a UIView."
   s.description      = <<-DESC
                        A library to simply zoom in and out a UIView.  It has a default animation similar to UIAlertView and allows for custom anitmation keyframes.
