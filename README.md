@@ -13,6 +13,10 @@ Easily zoom Views in out of view.
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Usage
+Import
+```
+#import "UIView+SFZoomView.h"
+```
 
 Zoom in
 ```
