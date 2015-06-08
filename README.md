@@ -7,7 +7,7 @@
 
 ## Easily zoom Views in out of view.
 
-<img src="SFZoomViewDemo.gif" alt="Demo GIF" width="320px" />
+<img src="SFZoomViewDemo.gif" alt="Demo GIF" width="320px" />  
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Installation
@@ -21,22 +21,22 @@ pod "SFZoomView"
 
 ## Usage
 Import
-```
+```objc
 #import "UIView+SFZoomView.h"
 ```
 
 Zoom in
-```
+```objc
 [view sf_zoomIn];
 ```
 
 Zoom out
-```
+```objc
 [view sf_zoomOut];
 ```
 
 Add a view to the view hierarchy zoomed out
-```
+```objc
 UIView *zoomedOutView = [[UIView alloc]initWithFrame:CGRectMake(30, 30, 100, 100)];
 [zoomedOutView sf_makeZoomedOut];
 [self.view addSubview:zoomedOutView];
