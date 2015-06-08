@@ -5,9 +5,12 @@
 [![License](https://img.shields.io/cocoapods/l/SFZoomView.svg?style=flat)](http://cocoapods.org/pods/SFZoomView)
 [![Platform](https://img.shields.io/cocoapods/p/SFZoomView.svg?style=flat)](http://cocoapods.org/pods/SFZoomView)
 
-## Usage
+## Example
+<img src="SFZoomViewDemo.gif" alt="Demo GIF" width="320px" />
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Usage
 
 ## Requirements
 
