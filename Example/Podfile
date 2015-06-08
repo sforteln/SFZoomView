@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'SFZoomView_Example', :exclusive => true do
+  pod "SFZoomView", :path => "../"
+end
+
+target 'SFZoomView_Tests', :exclusive => true do
+  pod "SFZoomView", :path => "../"
+
+  pod 'FBSnapshotTestCase'
+end

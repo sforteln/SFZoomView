@@ -1,0 +1,6 @@
+framework module SFZoomView {
+  umbrella header "Pods-SFZoomView_Example-SFZoomView-umbrella.h"
+
+  export *
+  module * { export * }
+}

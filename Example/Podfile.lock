@@ -1,0 +1,17 @@
+PODS:
+  - FBSnapshotTestCase (1.8.1)
+  - SFZoomView (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - SFZoomView (from `../`)
+
+EXTERNAL SOURCES:
+  SFZoomView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 3dc3899168747a0319c5278f5b3445c13a6532dd
+  SFZoomView: 2e50ff9898a918fd5d90265bba8fc6a6d9b55f5e
+
+COCOAPODS: 0.36.4
